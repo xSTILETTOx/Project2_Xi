@@ -18,14 +18,24 @@ The data used in this analysis is from King County. <br>This dataset contains re
 
 ## Data Modeling
 
-<li>Linear regression was used to model first, the raw data.</li>
-<img src="https://github.com/xSTILETTOx/Project2_Xi/blob/main/image-4.png" alt="Alt text" style="max-width: 100%;">
+<li>1st iteration of the raw data. The Q-Q plot shows that the data is skewed as it's curves away from the line 
+</li>
+<img src="https://github.com/xSTILETTOx/Project2_Xi/blob/main/image.png" alt="Alt text" style="max-width: 100%;">
 <br>
-<li>Next, the data was scaled to a normal distribution.</li>
-<img src="https://github.com/xSTILETTOx/Project2_Xi/blob/main/image-3.png" alt="Alt text" style="max-width: 100%;">
+<li>Heatmap and histogram of raw data</li>
+<img src=https://github.com/xSTILETTOx/Project2_Xi/blob/main/heatmap_raw.png alt="Alt text" style="max-width: 100%;">
 <br>
-<li>Lastly, dummy variables were added and log transformation done.</li>
+<li>Next, the data was scaled to a normal distribution. Normality met. Assumptions hold.</li>
+<img src=https://github.com/xSTILETTOx/Project2_Xi/blob/main/image-3.png alt="Alt text" style="max-width: 100%;">
+<br>
+<li>Heatmap and histogram of scaled data.</li>
+<img src=https://github.com/xSTILETTOx/Project2_Xi/blob/main/heatmap_scaled.png alt="Alt text" style="max-width: 100%;">
+<br>
+<li>Lastly, dummy variables were added and log transformation done. Normality met. Assumptions hold. Has a tighter fit compared to the scaled model</li>
 <img src="https://github.com/xSTILETTOx/Project2_Xi/blob/main/image-2.png" alt="Alt text" style="max-width: 100%;">
+<br>
+<li>Table of MSE and MAE</li>
+<img src="image-5.png" alt="Alt text" style="max-width: 100%;">
 
 ## Evaluation
 From the raw data sqft_living and grade correlate highly with price. Sqft_living slightly more than grade.
