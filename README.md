@@ -19,13 +19,13 @@ The data used in this analysis is from King County. <br>This dataset contains re
 ## Data Modeling
 
 <li>Linear regression was used to model first, the raw data.</li>
-![Alt text](image-4.png)
+<img src="https://github.com/xSTILETTOx/Project2_Xi/blob/main/image-4.png" alt="Alt text" style="max-width: 100%;">
 <br>
 <li>Next, the data was scaled to a normal distribution.</li>
-![Charts for the scaled dataset](image-3.png)
+<img src="https://github.com/xSTILETTOx/Project2_Xi/blob/main/image-3.png" alt="Alt text" style="max-width: 100%;">
 <br>
 <li>Lastly, dummy variables were added and log transformation done.</li>
-![Charts for the log transformed and dummy variable dataset](image-2.png)
+<img src="https://github.com/xSTILETTOx/Project2_Xi/blob/main/image-2.png" alt="Alt text" style="max-width: 100%;">
 
 ## Evaluation
 From the raw data sqft_living and grade correlate highly with price. Sqft_living slightly more than grade.
