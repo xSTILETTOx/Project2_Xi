@@ -41,7 +41,7 @@ MSE for scaled data is 0.8 difference train/test and the MSE for log data is 0.9
 <li> They may not be the best when it comes to accurate predictions, however they help us answer basic questions better, such as "which characteristics influence the cost of a home, is it how much square footage or the grade which King County assign to a property"?. In this case it's the grade by a fraction.</li>
 
 ## For More Information
-See the full analysis in the <a href="Project2_Final.ipynb">Jupyter Notebook</a> or review this <a href="King_County_Presentation.pdf">presentation.</a>
+See the full analysis in the <a href=https://github.com/xSTILETTOx/Project2_Xi/blob/main/Project2_Final1.ipynb>Jupyter Notebook</a> or review this <a href="King_County_Presentation.pdf">presentation.</a>
 
 For additional info, contact Tisa Yip at 
 <a href="mailto:clawspawsandjaws@gmail.com"> clawspawsandjaws@gmail.com </a>
