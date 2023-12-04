@@ -18,18 +18,14 @@ The data used in this analysis is from King County. <br>This dataset contains re
 
 ## Data Modeling
 
-Linear regression was used to model first, the raw data.
-
-Next, the data was scaled to a normal distribution.
-
-Lastly, dummy variables were added and log transformation done.
-
-
-![Histogram of price and a Heatmap of Raw data showing any correlation between variables](image.png)
-
+<li>Linear regression was used to model first, the raw data.</li>
+![Alt text](image-4.png)
+<br>
+<li>Next, the data was scaled to a normal distribution.</li>
 ![Charts for the scaled dataset](image-3.png)
-
-![Charts for the log transformed and dummy variable dataset](image-3.png)
+<br>
+<li>Lastly, dummy variables were added and log transformation done.</li>
+![Charts for the log transformed and dummy variable dataset](image-2.png)
 
 ## Evaluation
 From the raw data sqft_living and grade correlate highly with price. Sqft_living slightly more than grade.
@@ -40,7 +36,7 @@ MSE for scaled data is 0.8 difference train/test and the MSE for log data is 0.9
 
 
 ## Conclusions
-<li> We thoroughly inspected the model parameters, vetted that assumptions hold good.</li>
+ We thoroughly inspected the model parameters, vetted that assumptions hold good.</li>
 <li> The accuracy of the models did not increase much after scaling. </li>
 <li> They may not be the best when it comes to accurate predictions, however they help us answer basic questions better, such as "which characteristics influence the cost of a home, is it how much square footage or the grade which King County assign to a property"?. In this case it's the grade by a fraction.</li>
 
