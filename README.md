@@ -35,7 +35,7 @@ The data used in this analysis is from King County. <br>This dataset contains re
 <img src="https://github.com/xSTILETTOx/Project2_Xi/blob/main/image-2.png" alt="Alt text" style="max-width: 100%;">
 <br>
 <li>Table of MSE and MAE</li>
-<img src="image-5.png" alt="Alt text" style="max-width: 100%;">
+<img src="image-6.png" alt="Alt text" style="max-width: 100%;">
 
 ## Evaluation
 From the raw data sqft_living and grade correlate highly with price. Sqft_living slightly more than grade.
