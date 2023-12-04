@@ -20,7 +20,7 @@ The data used in this analysis is from King County. <br>This dataset contains re
 
 <li>1st iteration of the raw data. The Q-Q plot shows that the data is skewed as it's curves away from the line 
 </li>
-<img src="https://github.com/xSTILETTOx/Project2_Xi/blob/main/image.png" alt="Alt text" style="max-width: 100%;">
+<img src="https://github.com/xSTILETTOx/Project2_Xi/blob/main/image-4.png" alt="Alt text" style="max-width: 100%;">
 <br>
 <li>Heatmap and histogram of raw data</li>
 <img src=https://github.com/xSTILETTOx/Project2_Xi/blob/main/heatmap_raw.png alt="Alt text" style="max-width: 100%;">
