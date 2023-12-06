@@ -42,7 +42,7 @@ From the raw data sqft_living and grade correlate highly with price. Sqft_living
 
 Once the data is scaled it shows grade has more influence on the price than sqft_living.
 
-MSE for log transformed data is 0.96 difference between the train/test split. MSE for scaled data shows the model is off by the sq root 474 which equates to 21 dollars. The MAE means that, on average, the model is off by 381 dollars. The MAE is higher than the MSE, which suggests that the model has some small errors that accumulate in the MAE.
+With the variables used, the best r2 is 0.56 from the 3 iterations. This is a good r2 however it's not great either.
 
 
 ## Conclusions
