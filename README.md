@@ -51,7 +51,7 @@ With the variables used, the best r2 is 0.56 from the 3 iterations. This is a go
 <li> They may not be the best when it comes to accurate predictions, however they help us answer basic questions better, such as "which characteristics influence the cost of a home, is it how much square footage or the grade which King County assign to a property"?. In this case it's the grade by a fraction.</li>
 
 ## For More Information
-See the full analysis in the <a href=https://github.com/xSTILETTOx/Project2_Xi/blob/main/Project2_Final1.ipynb>Jupyter Notebook</a> or review this <a href="King_County_Presentation.pdf">presentation.</a>
+See the full analysis in the <a href=https://github.com/xSTILETTOx/Project2_Xi/blob/main/Project2_Final1.ipynb>Jupyter Notebook</a> or review this <a href=https://github.com/xSTILETTOx/Project2_Xi/blob/main/KCpresentation.pdf>presentation.</a>
 
 For additional info, contact Tisa Yip at 
 <a href="mailto:clawspawsandjaws@gmail.com"> clawspawsandjaws@gmail.com </a>
